@@ -39,4 +39,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGB_MATRIX_STARTUP_VAL RGB_MATRIX_MAXIMUM_BRIGHTNESS
 #define RGB_MATRIX_STARTUP_SPD 0
 #define RGB_MATRIX_LED_FLUSH_LIMIT 32
-#define LED_NUM_LOCK_PIN B8
